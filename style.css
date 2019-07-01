@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(175, 104, 104)
+}
+#vid{
+    height: 400;
+    float: right;
+    margin-top: 50px;
+    position: relative;
+    padding-right: 30px;
+}
