@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(135, 196, 21);
+}
+.hero{
+    text-align: center;
+    margin-top: 10px;
+}
+.hero h4{
+    font-size: 35px;
+    margin-top: 10px;
+
+}
+.hero p{
+    font-size: 20px;
+    word-spacing: 2px;
+    margin-top: 50px;
+}
+hr{
+    width: 150px;
+    height: 10px;
+    color: brown;
+    background-color: brown;
+}
+.line{
+    width: 120px;
+    margin-bottom: 150px;
+}
